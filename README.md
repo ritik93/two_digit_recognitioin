@@ -18,5 +18,12 @@ To use a neural network to recognize two handwritten digits, zero and one. This 
  
  ## Model Representation
  - The neural network has three dense layers with sigmoid activations.  
-    - Recall that our inputs are pixel values of digit images  
-    - Since the images are of size 20 x 20, this gives us 400 inputs
+    - Our inputs are pixel values of digit images  
+    - Since the images are of size 20 x 20, this gives us 400 inputs  
+  
+## Model Implementation
+- The Model is implemented using 3 methods  
+    - Tensorflow Implementation, which is shown in tf_model.pynb
+    - NumPy Implementation, which is shown in np_model.pynb
+    - Vectorized NumPy Implementation, which is shown in vector_model.pynb 
+   
