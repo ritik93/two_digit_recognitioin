@@ -19,4 +19,4 @@ To use a neural network to recognize two handwritten digits, zero and one. This 
  ## Model Representation
  The neural network has three dense layers with sigmoid activations.  
     - Recall that our inputs are pixel values of digit images  
-    - Since the images are of size $20\times20$, this gives us $400$ inputs
+    - Since the images are of size 20 x 20, this gives us 400 inputs
