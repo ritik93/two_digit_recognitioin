@@ -23,7 +23,7 @@ To use a neural network to recognize two handwritten digits, zero and one. This 
   
 ## Model Implementation
 - The Model is implemented using 3 methods  
-    - Tensorflow Implementation, which is shown in tf_model.pynb
-    - NumPy Implementation, which is shown in np_model.pynb
-    - Vectorized NumPy Implementation, which is shown in vector_model.pynb 
+    - Tensorflow Implementation, which is shown in $tf_model.pynb$
+    - NumPy Implementation, which is shown in $np_model.pynb$
+    - Vectorized NumPy Implementation, which is shown in $vector_model.pynb$ 
    
