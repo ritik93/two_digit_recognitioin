@@ -17,6 +17,6 @@ To use a neural network to recognize two handwritten digits, zero and one. This 
  1 <sub> This is a subset of the MNIST handwritten digit dataset (http://yann.lecun.com/exdb/mnist/)</sub>
  
  ## Model Representation
- The neural network has three dense layers with sigmoid activations.  
+ - The neural network has three dense layers with sigmoid activations.  
     - Recall that our inputs are pixel values of digit images  
     - Since the images are of size 20 x 20, this gives us 400 inputs
