@@ -15,3 +15,8 @@ To use a neural network to recognize two handwritten digits, zero and one. This 
     - `y = 0` if the image is of the digit `0`, `y = 1` if the image is of the digit `1`.
     
  1 <sub> This is a subset of the MNIST handwritten digit dataset (http://yann.lecun.com/exdb/mnist/)</sub>
+ 
+ ## Model Representation
+ The neural network has three dense layers with sigmoid activations.
+    - Recall that our inputs are pixel values of digit images.
+    - Since the images are of size $20\times20$, this gives us $400$ inputs
