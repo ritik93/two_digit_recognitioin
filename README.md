@@ -22,7 +22,7 @@ To use a neural network to recognize two handwritten digits, zero and one. This 
     - Since the images are of size 20 x 20, this gives us 400 inputs  
   
 ## Model Implementation
-- The Model is implemented using 3 methods  
+- The Model implementation is shown using 3 methods, all of which yield the same results  
     - Tensorflow Implementation, which is shown in `tf_model.ipynb`
     - NumPy Implementation, which is shown in `np_model.ipynb`
     - Vectorized NumPy Implementation, which is shown in `vector_model.ipynb` 
