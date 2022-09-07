@@ -23,4 +23,5 @@ To use a neural network to recognize two handwritten digits, zero and one. This 
   
 ## Model Implementation
 - The Model implementation is done using Tensorflow's Keras Sequential model and Dense layer with a sigmoid activation to construct the network
+- The implementation is shown in `tf_model.ipynb`
    
